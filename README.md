@@ -80,13 +80,13 @@ Consulting gave me an appreciation for the evolutionary nature of a project life
 
 - BSc (Hons) Medical Biochemistry
 
-## Previous Experience
+## Experience
 
 **Envision Pharma Group**   
 *Consultant*
 
 **Trillium Partners**
-*Intern - M&A Advisory*
+*M&A Advisory Intern*
 
 ## Hobbies
 
