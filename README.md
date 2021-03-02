@@ -86,7 +86,7 @@ Consulting gave me an appreciation for the evolutionary nature of a project life
 *Consultant*
 
 **Trillium Partners**<br/>
-*M&A Advisory Intern*
+*Intern - M&A Advisory*
 
 ## Hobbies
 
