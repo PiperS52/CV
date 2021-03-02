@@ -9,9 +9,9 @@
 
 </div>
 
-Previously in healthcare/life sciences consulting, my role required designing and building out health economic models and analytics tools for major pharma clients, in order to help shape their commercial market access strategy. Seeking a new direction while also acting on my interest in tech, I recently graduated from Makers Academy, where I'm now looking for a Junior Software Engineer position, in which I can extend my programming skills alongside my enthusiasm for creative problem-solving.
+Previously in healthcare/life sciences consulting, my role required designing and building out health economic models and analytics tools for major pharma clients, in order to help shape their commercial market access strategy. Seeking a new direction while also acting on my interest in tech, I recently graduated from Makers Academy, where I'm now looking for a Junior Software Engineering position, in which I can extend my programming skills alongside my enthusiasm for creative problem-solving.
 
-#### Tech Skills: Ruby, Rails, Sinatra, JavaScript, Node.js, Express.js, Python, HTML, CSS, JQuery, SQL (PostgreSQL, SQLite), MongoDB, R, React
+**Tech Skills:** Ruby, Rails, Sinatra, JavaScript, Node.js, Express.js, Python, HTML, CSS, JQuery, SQL (PostgreSQL, SQLite), MongoDB, R, React
 
 ## Projects
 
@@ -19,10 +19,10 @@ Previously in healthcare/life sciences consulting, my role required designing an
 | -- | -- | -- | -- |
 | [Recipy](https://github.com/PiperS52/Recipy) | As part of a final project at Makers, we designed a web app for users to discover new recipes along with a cuisine-themed music playlist, according to what ingredients the user has in their cupboard | Two weeks | MongoDB, Express.js, React, Node.js, Cypress |
 | [MakersBnB](https://github.com/PiperS52/MakersBnB) | A clone of AirBnB built as part of a Makers Academy group challenge | One week | Ruby, Sinatra, Capybara, PostgreSQL, HTML, CSS, RSpec |
-| [Chitter](https://github.com/PiperS52/chitter-challenge) | A clone of Twitter, written as part of a Makers Academy weekend challenge | Two Days | Ruby, Sinatra, Capybara, PostgreSQL, HTML, CSS, RSpec |
-| [Acebook](https://github.com/PiperS52/acebook-CLOBS) | A clone of Facebook, written as part of a Makers Academy group challenge | Two weeks | Ruby, Rails, PostgreSQL, React |
+| [Chitter](https://github.com/PiperS52/chitter-challenge) | A social media app, allowing users to post messages to a public stream, written as part of a Makers Academy weekend challenge | Two Days | Ruby, Sinatra, Capybara, PostgreSQL, HTML, CSS, RSpec |
+| [Acebook](https://github.com/PiperS52/acebook-CLOBS) | A social media platform with single-page app functionality, written as part of a Makers Academy group challenge | Two weeks | Ruby, Rails, PostgreSQL, React |
 | [Airport (JavaScript)](https://github.com/PiperS52/airport_challenge_JavaScript) | A short program to control air traffic at an airport (This is also completed in Ruby [here](https://github.com/PiperS52/airport_challenge)) | Two Days | JavaScript, Jasmine |
-| [Bowling (JavaScript)](https://github.com/PiperS52/bowling-challenge) | A scorecard which calculates the correct scores across ten frames of ten pin bowling for a single player | Two Days | JavaScript, JQuery, Jasmine |
+| [Bowling (JavaScript)](https://github.com/PiperS52/bowling-challenge) | A scorecard which calculates the correct scores across ten frames of ten pin bowling for a single player (This is also completed in Ruby [here](https://github.com/PiperS52/bowling-challenge-ruby) | Two Days | JavaScript, JQuery, Jasmine |
 | [Takeaway](https://github.com/PiperS52/takeaway-challenge) | A short program to place takeaway orders with SMS delivery notification | Two Days | Ruby, RSpec, Twilio |
 
 Additional projects in data science & machine-learning:
@@ -83,10 +83,10 @@ Consulting gave me an appreciation for the evolutionary nature of a project life
 ## Previous Experience
 
 **Envision Pharma Group**   
-_Consultant_
+*Consultant*
 
 **Trillium Partners**
-_Intern - M&A Advisory_
+*Intern - M&A Advisory*
 
 ## Hobbies
 
