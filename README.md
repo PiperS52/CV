@@ -1,64 +1,96 @@
-## Your Name
+## Simon Piper
+
+<div align="center">
+
+[Projects](#projects) |
+[Skills](#skills) |
+[Education](#education) |
+[Experience](#previous experience)
+
+</div>
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
+Previously in healthcare/life sciences consulting, my role required designing and building out health economic models and analytics tools for major pharma clients, in order to help shape their commercial market access strategy. Seeking a new direction while also acting on my interest in tech, I recently graduated from Makers Academy, where I'm now looking for a Junior Software Engineer position, in which I can extend my programming skills alongside my enthusiasm for creative problem-solving.
+
+#### Tech Skills: Ruby, Rails, Sinatra, JavaScript, Node.js, Express.js, Python, HTML, CSS, JQuery, SQL (PostgreSQL, SQLite), MongoDB, R, React
+
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name | Description | Devlopment Timeframe | Tech/tools |
+| -- | -- | -- | -- |
+| [Recipy](https://github.com/PiperS52/Recipy) | As part of a final project at Makers, we designed a web app for users to discover new recipes along with a cuisine-themed music playlist, according to what ingredients the user has in their cupboard | Two weeks | MongoDB, Express.js, React, Node.js, Cypress |
+| [MakersBnB](https://github.com/PiperS52/MakersBnB) | A clone of AirBnB built as part of a Makers Academy group challenge | One week | Ruby, Sinatra, Capybara, PostgreSQL, HTML, CSS, RSpec |
+| [Chitter](https://github.com/PiperS52/chitter-challenge) | A clone of Twitter, written as part of a Makers Academy weekend challenge | Two Days | Ruby, Sinatra, Capybara, PostgreSQL, HTML, CSS, RSpec |
+| [Acebook] | A clone of Facebook, written as part of a Makers Academy group challenge | Two weeks | Ruby, Rails, PostgreSQL, React |
+| [Airport (JavaScript)](https://github.com/PiperS52/airport_challenge_JavaScript) | A short program to control air traffic at an airport (This is also completed in Ruby [here](https://github.com/PiperS52/airport_challenge)) | Two Days | JavaScript, Jasmine |
+| [Bowling (JavaScript)](https://github.com/PiperS52/bowling-challenge) | A scorecard which calculates the correct scores across ten frames of ten pin bowling for a single player | Two Days | JavaScript, JQuery, Jasmine |
+| [Takeaway](https://github.com/PiperS52/takeaway-challenge) | A short program to place takeaway orders with SMS delivery notification | Two Days | Ruby, RSpec, Twilio |
 
-## Experience
+Additional projects in data science & machine-learning:
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+| Name | Description | Language/Libraries |
+| -- | -- | -- |
+| [MovieLens](https://github.com/PiperS52/MovieLens) | Predicting movie ratings with machine learning | R (tidyverse) |
+| [Predicting Liver Disease](https://github.com/PiperS52/Liver-Disease-ML) | Predicting liver disease with machine learning | R (tidyverse, caret) |
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Problem-solver
 
-#### This Skill
+In my previous position, I was required to manipulate and analyse datasets in modelling complex client problems, to be able to design and build bespoke health economics solutions.
 
-- Experience
-- Achievements
-- Evidence
+#### Fast learner
 
-#### Another Skill
+During my time at Makers I have regularly been presented with the challenge of quickly getting to grips with new programming languages, frameworks and testing suites. An example of my intention to be continuously learning is that of the final group project at Makers, where we chose to use a previously unused MERN stack, to build out a fully functioning web app in two weeks.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Effective communicator
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+As the go-to consultant and engineer for a global bespoke technology data analytics pilot tool with a top 6 pharma client, I was tasked with leading client discussions, as well as presenting to global client decision makers to help deliver key insights. Furthermore, the role involved a high level of regular engagement with different teams across the business in different geographies.
+
+#### Adaptable
+
+Consulting gave me an appreciation for the evolutionary nature of a project lifecycle, and the need to respond to and implement client requests with alacrity. During my time at Makers, I also had the opportunity to work in an agile environment, acting on new feedback and requirements across two-day sprints, to build out new app features.
+
+#### Additional skills
+
+- Foreign languages: French (Advanced Spoken & Written)
+- Statistical Programming & Data Science:
+    * Stata
+    * R (tidyverse, caret, R Markdown)
+    * Python (Pandas, NumPy, SciPy, scikit-learn)
+    * Jupyter Notebook
+    * SQL (SQLite, PostgreSQL)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct 2020 to Feb 2021)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Languages: Ruby, JavaScript, JQuery, HTML/CSS, React
+- Frameworks: Sinatra, Ruby on Rails, Express.js
+- Concepts: OOP, TDD, MVC, DDD
+- Methodology: Agile/XP, pair-programming
+- Testing frameworks: RSpec, Jasmine, Capybara, Cypress
+- Databases: PostgreSQL, MongoDB
 
-#### Your University / College (start_date to end_date)
+#### University of Warwick (Sep 2013 to Sep 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc Economics
+- PGDip Economics
 
-#### Any other qualifications
+#### University of Sheffield (Sep 2006 to Jul 2009)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BSc (Hons) Medical Biochemistry
+
+## Previous Experience
+
+**Envision Pharma Group**   
+_Consultant_
+
+**Trillium Partners**
+_Intern - M&A Advisory_
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Triathlons: An active member of a triathlon club in central London, and an otherwise avid adventure challenge seeker. Next up; Maratona dles Dolomites 2021!
+- Music: Guitarist and occasional wedding singer
