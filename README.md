@@ -85,7 +85,7 @@ Consulting gave me an appreciation for the evolutionary nature of a project life
 **Envision Pharma Group**   
 *Consultant*
 
-**Trillium Partners**
+**Trillium Partners**<br/>
 *M&A Advisory Intern*
 
 ## Hobbies
