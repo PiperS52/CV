@@ -22,7 +22,7 @@ Previously in healthcare/life sciences consulting, my role required designing an
 | [Chitter](https://github.com/PiperS52/chitter-challenge) | A social media app, allowing users to post messages to a public stream, written as part of a Makers Academy weekend challenge | Two Days | Ruby, Sinatra, Capybara, PostgreSQL, HTML, CSS, RSpec |
 | [Acebook](https://github.com/PiperS52/acebook-CLOBS) | A social media platform with single-page app functionality, written as part of a Makers Academy group challenge | Two weeks | Ruby, Rails, PostgreSQL, React |
 | [Airport (JavaScript)](https://github.com/PiperS52/airport_challenge_JavaScript) | A short program to control air traffic at an airport (This is also completed in Ruby [here](https://github.com/PiperS52/airport_challenge)) | Two Days | JavaScript, Jasmine |
-| [Bowling (JavaScript)](https://github.com/PiperS52/bowling-challenge) | A scorecard which calculates the correct scores across ten frames of ten pin bowling for a single player (This is also completed in Ruby [here](https://github.com/PiperS52/bowling-challenge-ruby) | Two Days | JavaScript, JQuery, Jasmine |
+| [Bowling (JavaScript)](https://github.com/PiperS52/bowling-challenge) | A scorecard which calculates the correct scores across ten frames of ten pin bowling for a single player (This is also completed in Ruby [here](https://github.com/PiperS52/bowling-challenge-ruby)) | Two Days | JavaScript, JQuery, Jasmine |
 | [Takeaway](https://github.com/PiperS52/takeaway-challenge) | A short program to place takeaway orders with SMS delivery notification | Two Days | Ruby, RSpec, Twilio |
 
 Additional projects in data science & machine-learning:
