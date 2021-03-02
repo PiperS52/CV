@@ -11,7 +11,7 @@
 
 Previously in healthcare/life sciences consulting, my role required designing and building out health economic models and analytics tools for major pharma clients, in order to help shape their commercial market access strategy. Seeking a new direction while also acting on my interest in tech, I recently graduated from Makers Academy, where I'm now looking for a Junior Software Engineering position, in which I can extend my programming skills alongside my enthusiasm for creative problem-solving.
 
-**Tech Skills:** Ruby, Rails, Sinatra, JavaScript, Node.js, Express.js, Python, HTML, CSS, JQuery, SQL (PostgreSQL, SQLite), MongoDB, R, React
+**Tech Skills:** Ruby, Rails, Sinatra, JavaScript, Node.js, Express.js, Python, HTML, CSS, JQuery, SQL (PostgreSQL, SQLite), MongoDB, R, React, AWS Cloud9 EC2
 
 ## Projects
 
