@@ -5,7 +5,7 @@
 [Projects](#projects) |
 [Skills](#skills) |
 [Education](#education) |
-[Previous Experience](#previous)
+[Experience](#experience)
 
 </div>
 
